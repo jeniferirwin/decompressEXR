@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\DecompressEXR]
+@="Decompress EXR Files"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\DecompressEXR\command]
+@="\"C:\\Tools\\decompress_exr.bat\" \"%V\""
