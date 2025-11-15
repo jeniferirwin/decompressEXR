@@ -1,4 +1,4 @@
-# EXR Decompressor
+# DecompressEXR
 
 A Windows utility that converts compressed EXR files to uncompressed format for compatibility with TinyEXR (used by Godot Engine).
 
